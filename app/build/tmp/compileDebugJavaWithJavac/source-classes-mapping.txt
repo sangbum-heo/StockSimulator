@@ -1,0 +1,7 @@
+com/example/stocksimulator/BuildConfig.java
+ com.example.stocksimulator.BuildConfig
+com/example/stocksimulator/MainActivity.java
+ com.example.stocksimulator.MainActivity
+ com.example.stocksimulator.MainActivity$1
+ com.example.stocksimulator.MainActivity$1$1
+ com.example.stocksimulator.MainActivity$1$1$1

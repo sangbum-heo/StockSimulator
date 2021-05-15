@@ -5,3 +5,5 @@ com/example/stocksimulator/MainActivity.java
  com.example.stocksimulator.MainActivity$1
  com.example.stocksimulator.MainActivity$1$1
  com.example.stocksimulator.MainActivity$1$1$1
+ com.example.stocksimulator.MainActivity$2
+ com.example.stocksimulator.MainActivity$3

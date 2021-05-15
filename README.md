@@ -1,1 +1,1 @@
-![stocksimulator](https://user-images.githubusercontent.com/72535309/118366172-990a0200-b5da-11eb-87fe-1eaffa772206.png)
+![stocksimulator](https://user-images.githubusercontent.com/72535309/118367043-bd1a1300-b5db-11eb-850e9a8a0850736c.png)
